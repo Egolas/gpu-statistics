@@ -1,10 +1,6 @@
 import os
 import json
-import subprocess
-import socket
 import time
-import pandas as pd
-import sqlite3
 from mysql_utils import auto_insert_database
 
 host_name = 'hostname' # input your hostname
